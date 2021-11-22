@@ -1,0 +1,25 @@
+h1 {
+	font-size: 30px;
+	text-align:  center;
+	color:  #FF9696;
+}
+
+h2 {
+	font-size: 20px;
+	text-align:  center;
+}
+
+body {
+	font-size:  16px;
+	font-family:  Helvetica, sans-serif;
+	color:  #242424;
+	background-image: url(image/wall4.png);
+}
+
+ul li {
+	display: inline-block;
+}
+
+li {
+	list-style-type: none;
+}
